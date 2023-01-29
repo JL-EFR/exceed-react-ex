@@ -2,26 +2,6 @@
     "pizza": [
         {
             "id": 0,
-            "name": "Margherita",
-            "description": "",
-            "ingredients": ["tomato sauce", "mozzarella"],
-            "spicy": false,
-            "vegetarian": true,
-            "price": 17.0,
-            "image": "https://i.imgur.com/8B8YLOo.jpg"
-        },
-        {
-            "id": 1,
-            "name": "Pepperoni",
-            "description": "",
-            "ingredients": ["tomato sauce", "mozzarella", "double pepperoni"],
-            "spicy": false,
-            "vegetarian": false,
-            "price": 20.0,
-            "image": "https://i.imgur.com/OHHctnf.jpg"
-        },
-        {
-            "id": 2,
             "name": "Rome",
             "description": "",
             "ingredients": [
@@ -37,7 +17,7 @@
             "image": "https://i.imgur.com/3ZTwCfz.png"
         },
         {
-            "id": 3,
+            "id": 1,
             "name": "American Spicy",
             "description": "",
             "ingredients": [
@@ -56,24 +36,7 @@
             "image": "https://i.imgur.com/dyoOLCO.png"
         },
         {
-            "id": 4,
-            "name": "Quattro Stagioni",
-            "description": "",
-            "ingredients": [
-                "tomato sauce",
-                "mozzarella",
-                "ham",
-                "pepperoni",
-                "mushrooms",
-                "green pepper"
-            ],
-            "spicy": false,
-            "vegetarian": false,
-            "price": 27.25,
-            "image": "https://i.imgur.com/wOEuXuV.jpg"
-        },
-        {
-            "id": 5,
+            "id": 2,
             "name": "Pork & Feta",
             "description": "",
             "ingredients": [
@@ -90,23 +53,7 @@
             "image": "https://i.imgur.com/48Zw4K3.png"
         },
         {
-            "id": 6,
-            "name": "Quattro Formaggi",
-            "description": "",
-            "ingredients": [
-                "mozzarella",
-                "cheddar cheese",
-                "emmentaler",
-                "blue cheese",
-                "oregano"
-            ],
-            "spicy": false,
-            "vegetarian": true,
-            "price": 35.15,
-            "image": "https://i.imgur.com/MDrTvkI.jpg"
-        },
-        {
-            "id": 7,
+            "id": 3,
             "name": "Carnivora",
             "description": "",
             "ingredients": [
@@ -123,7 +70,7 @@
             "image": "https://i.imgur.com/0vPtSSO.png"
         },
         {
-            "id": 8,
+            "id": 4,
             "name": "Louisiana Chicken",
             "description": "",
             "ingredients": [
@@ -140,7 +87,7 @@
             "image": "https://i.imgur.com/lZtwJgy.png"
         },
         {
-            "id": 9,
+            "id": 5,
             "name": "Honey Mustard Chicken",
             "description": "",
             "ingredients": [
@@ -156,7 +103,7 @@
             "image": "https://i.imgur.com/SoZu61g.png"
         },
         {
-            "id": 10,
+            "id": 6,
             "name": "Hawaiian",
             "description": "",
             "ingredients": [
@@ -173,7 +120,7 @@
             "image": "https://i.imgur.com/mqTgvgl.png"
         },
         {
-            "id": 11,
+            "id": 7,
             "name": "Classic",
             "description": "",
             "ingredients": [
@@ -189,7 +136,7 @@
             "image": "https://i.imgur.com/k6IGrUd.png"
         },
         {
-            "id": 12,
+            "id": 8,
             "name": "Pastrami",
             "description": "",
             "ingredients": [
@@ -206,7 +153,7 @@
             "image": "https://i.imgur.com/yOe5RtC.png"
         },
         {
-            "id": 13,
+            "id": 9,
             "name": "Hot Pastrami",
             "description": "",
             "ingredients": [
@@ -223,7 +170,7 @@
             "image": "https://i.imgur.com/ipMA5LP.png"
         },
         {
-            "id": 14,
+            "id": 10,
             "name": "Country",
             "description": "",
             "ingredients": [
@@ -240,7 +187,7 @@
             "image": "https://i.imgur.com/E67Xf8Y.png"
         },
         {
-            "id": 15,
+            "id": 11,
             "name": "Hot Cheese",
             "description": "",
             "ingredients": [
@@ -258,7 +205,7 @@
             "image": "https://i.imgur.com/v4sa2cA.png"
         },
         {
-            "id": 16,
+            "id": 12,
             "name": "Ocean",
             "description": "",
             "ingredients": [
@@ -275,7 +222,7 @@
             "image": "https://i.imgur.com/w5IQ2rX.png"
         },
         {
-            "id": 17,
+            "id": 13,
             "name": "BBQ",
             "description": "",
             "ingredients": [
@@ -294,7 +241,7 @@
             "image": "https://i.imgur.com/znqS9KD.png"
         },
         {
-            "id": 18,
+            "id": 14,
             "name": "Mexicana",
             "description": "",
             "ingredients": [
@@ -340,67 +287,6 @@
             "image": "https://i.imgur.com/3jKSuUu.png"
         }
     ],
-    "salads": [
-        {
-            "id": 0,
-            "name": "Caesar",
-            "description": "",
-            "ingredients": [
-                "chicken breast",
-                "bacon",
-                "parmesan",
-                "cherry tomatoes",
-                "croutons",
-                "lettuce",
-                "beetroot",
-                "sauce of your choice"
-            ],
-            "spicy": false,
-            "vegetarian": false,
-            "price": 20,
-            "image": "https://i.imgur.com/QWXH2NC.png"
-        },
-        {
-            "id": 1,
-            "name": "Greek",
-            "description": "",
-            "ingredients": [
-                "feta cheese",
-                "green olives",
-                "cherry tomatoes",
-                "cucumbers",
-                "red onion",
-                "red pepper",
-                "oregano",
-                "lettuce",
-                "beetroot",
-                "sauce of your choice"
-            ],
-            "spicy": false,
-            "vegetarian": true,
-            "price": 20,
-            "image": "https://i.imgur.com/qChqf83.png"
-        },
-        {
-            "id": 2,
-            "name": "Tuna",
-            "description": "",
-            "ingredients": [
-                "tuna",
-                "green olives",
-                "corn",
-                "red pepper",
-                "red onion",
-                "lettuce",
-                "beetroot",
-                "sauce of your choice"
-            ],
-            "spicy": false,
-            "vegetarian": false,
-            "price": 20,
-            "image": "https://i.imgur.com/Ph0IjrX.png"
-        }
-    ],
     "dessert": [
         {
             "id": 0,
@@ -424,16 +310,6 @@
         },
         {
             "id": 2,
-            "name": "Apple Pie",
-            "description": "Hot pie with apple and cinnamon",
-            "ingredients": [],
-            "spicy": false,
-            "vegetarian": true,
-            "price": 15,
-            "image": "https://i.imgur.com/OWIVhWX.png"
-        },
-        {
-            "id": 3,
             "name": "Cheesecake",
             "description": "Cheesecake with berries topping",
             "ingredients": [],
@@ -607,16 +483,6 @@
             "vegetarian": true,
             "price": 6,
             "image": "https://i.imgur.com/i3Jintb.png"
-        },
-        {
-            "id": 2,
-            "name": "Coleslaw",
-            "description": "Cabbage salad, carrots and dressing",
-            "ingredients": [],
-            "spicy": false,
-            "vegetarian": false,
-            "price": 10,
-            "image": "https://i.imgur.com/HNX30U9.png"
         }
     ]
 }
