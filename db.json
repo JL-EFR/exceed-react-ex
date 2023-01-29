@@ -3,7 +3,7 @@
         {
             "id": 0,
             "name": "Rome",
-            "description": "",
+
             "ingredients": [
                 "tomato sauce",
                 "mozzarella",
@@ -19,7 +19,7 @@
         {
             "id": 1,
             "name": "American Spicy",
-            "description": "",
+
             "ingredients": [
                 "tomato sauce",
                 "mozzarella",
@@ -38,7 +38,7 @@
         {
             "id": 2,
             "name": "Pork & Feta",
-            "description": "",
+
             "ingredients": [
                 "tomato sauce",
                 "mozzarella",
@@ -55,7 +55,7 @@
         {
             "id": 3,
             "name": "Carnivora",
-            "description": "",
+
             "ingredients": [
                 "tomato sauce",
                 "mozzarella",
@@ -72,7 +72,7 @@
         {
             "id": 4,
             "name": "Louisiana Chicken",
-            "description": "",
+
             "ingredients": [
                 "marinated chicken",
                 "TABASCO spicy sauce",
@@ -89,7 +89,7 @@
         {
             "id": 5,
             "name": "Honey Mustard Chicken",
-            "description": "",
+
             "ingredients": [
                 "tomato sauce",
                 "mozzarella",
@@ -105,7 +105,7 @@
         {
             "id": 6,
             "name": "Hawaiian",
-            "description": "",
+
             "ingredients": [
                 "mozzarella",
                 "sweet chilli sauce",
@@ -122,7 +122,7 @@
         {
             "id": 7,
             "name": "Classic",
-            "description": "",
+
             "ingredients": [
                 "tomato sauce",
                 "mozzarella",
@@ -138,7 +138,7 @@
         {
             "id": 8,
             "name": "Pastrami",
-            "description": "",
+
             "ingredients": [
                 "tomato sauce",
                 "mozzarella",
@@ -155,7 +155,7 @@
         {
             "id": 9,
             "name": "Hot Pastrami",
-            "description": "",
+
             "ingredients": [
                 "Honey Mustard sauce",
                 "mozzarella",
@@ -172,7 +172,7 @@
         {
             "id": 10,
             "name": "Country",
-            "description": "",
+
             "ingredients": [
                 "tomato sauce",
                 "mozzarella",
@@ -189,7 +189,7 @@
         {
             "id": 11,
             "name": "Hot Cheese",
-            "description": "",
+
             "ingredients": [
                 "tomato sauce",
                 "mozzarella",
@@ -207,7 +207,7 @@
         {
             "id": 12,
             "name": "Ocean",
-            "description": "",
+
             "ingredients": [
                 "tomato sauce",
                 "mozzarella",
@@ -224,7 +224,7 @@
         {
             "id": 13,
             "name": "BBQ",
-            "description": "",
+
             "ingredients": [
                 "tomato sauce",
                 "mozzarella",
@@ -243,7 +243,7 @@
         {
             "id": 14,
             "name": "Mexicana",
-            "description": "",
+
             "ingredients": [
                 "tomato sauce",
                 "mozzarella",
@@ -264,7 +264,7 @@
         {
             "id": 0,
             "name": "Bolognese",
-            "description": "",
+
             "ingredients": ["penne", "ragu sauce", "beef cubes", "mozzarella"],
             "spicy": false,
             "vegetarian": false,
@@ -274,7 +274,7 @@
         {
             "id": 1,
             "name": "Carbonara",
-            "description": "",
+
             "ingredients": [
                 "penne",
                 "white cream and garlic sauce",
@@ -291,7 +291,6 @@
         {
             "id": 0,
             "name": "Brownie",
-            "description": "A delicious cake with chocolate and hazelnuts",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -301,7 +300,6 @@
         {
             "id": 1,
             "name": "Chocolate Tortilla",
-            "description": "Tortilla filled with chocolate cream",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -311,7 +309,6 @@
         {
             "id": 2,
             "name": "Cheesecake",
-            "description": "Cheesecake with berries topping",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -323,7 +320,6 @@
         {
             "id": 0,
             "name": "Coca Cola",
-            "description": "Coca Cola 330ml",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -333,7 +329,6 @@
         {
             "id": 1,
             "name": "Fanta",
-            "description": "Fanta 330ml",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -343,7 +338,6 @@
         {
             "id": 2,
             "name": "Sprite",
-            "description": "Sprite 330ml",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -353,7 +347,6 @@
         {
             "id": 3,
             "name": "Water",
-            "description": "Dorna 0.5L",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -363,7 +356,6 @@
         {
             "id": 4,
             "name": "Sparkling water",
-            "description": "Dorna 0.5L",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -373,7 +365,6 @@
         {
             "id": 5,
             "name": "Fuzetea",
-            "description": "Fuzetea 0.5L Peach or Lemon",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -385,7 +376,7 @@
         {
             "id": 0,
             "name": "BBQ",
-            "description": "",
+
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -395,7 +386,7 @@
         {
             "id": 1,
             "name": "Pizza",
-            "description": "",
+
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -405,7 +396,7 @@
         {
             "id": 2,
             "name": "Salsa",
-            "description": "",
+
             "ingredients": [],
             "spicy": true,
             "vegetarian": false,
@@ -415,7 +406,7 @@
         {
             "id": 3,
             "name": "Sweet Chilli",
-            "description": "",
+
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -425,7 +416,7 @@
         {
             "id": 4,
             "name": "Spicy TABASCO",
-            "description": "",
+
             "ingredients": [],
             "spicy": true,
             "vegetarian": false,
@@ -435,7 +426,7 @@
         {
             "id": 5,
             "name": "Mayonnaise",
-            "description": "",
+
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -445,7 +436,7 @@
         {
             "id": 6,
             "name": "Ketchup",
-            "description": "",
+
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -455,7 +446,7 @@
         {
             "id": 7,
             "name": "Garlic sauce",
-            "description": "",
+
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -467,7 +458,6 @@
         {
             "id": 0,
             "name": "Wedges",
-            "description": "Baked potatoes, slightly spicy",
             "ingredients": [],
             "spicy": false,
             "vegetarian": true,
@@ -477,7 +467,6 @@
         {
             "id": 1,
             "name": "Onion rings",
-            "description": "Fried onion rings",
             "ingredients": [],
             "spicy": false,
             "vegetarian": true,
