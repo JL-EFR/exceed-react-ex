@@ -112,3 +112,17 @@ html, body {
   display: flex;
   justify-content: space-around;
 }
+.bcard {
+  background-color: beige;
+  margin: 1rem;
+}
+.bcard-name {
+  font-size: large;
+}
+.bcard-ing {
+  text-align: left;
+}
+.bcard-ingtext {
+  margin-left: 2rem;
+  font-size: medium;
+}
