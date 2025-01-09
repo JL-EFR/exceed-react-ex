@@ -1,6 +1,4 @@
 # About This Project
-This project serves as instructional material for teaching the "React for Front-End Development" course at Exceed Camp 2022. It was designed as the final assignment for the course.  
-
 The project is a pizza restaurant website that allows customers to:
 - Browse the full menu offered by the restaurant.
 - View detailed information about each menu item.
@@ -12,4 +10,6 @@ The project is a pizza restaurant website that allows customers to:
 - Detailed dish information is displayed upon selection.
 
 ## Development Process
+This project serves as instructional material for teaching the "React for Front-End Development" course at Exceed Camp 2022. It was designed as the final assignment for the course.
+
 This project was built entirely by me within approximately one day.
